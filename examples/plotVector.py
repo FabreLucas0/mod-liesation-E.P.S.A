@@ -43,7 +43,7 @@ a4 = [v1[4]]
 x = [0]
 count = [sumVector(v1)]
 for i in range(15):
-    v2 = multiplyMatrixVector(myMatrix2, v1)
+    v2 = multiplyMatrixVector(myMatrix, v1)
 
     a0.append(v2[0])
     a1.append(v2[1])
