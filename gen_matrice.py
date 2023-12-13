@@ -66,4 +66,3 @@ def genMatricDiagEqual(n,x,reste):
         mat.append(ligne)
 
     return mat
-
